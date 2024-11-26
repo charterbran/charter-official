@@ -9,7 +9,7 @@
     "aos": "^2.3.4",
     "chart.js": "^2.9.4",
     "dotenv": "^8.6.0",
-    "gatsby": "^3.11.0",
+    "gatsby": "^5.0.1",
     "gatsby-image": "^3.0.0",
     "gatsby-plugin-google-analytics": "^3.0.0",
     "gatsby-plugin-google-gtag": "^3.0.0",
